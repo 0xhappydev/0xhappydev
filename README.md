@@ -10,8 +10,6 @@ From designing secure smart contracts and token economics to delivering responsi
 
 🚀 **Let’s build and push the boundaries of technology together.**
 
-
-# 
 <table align="center">
 <!-- skill -->
   <tr>
